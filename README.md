@@ -66,7 +66,7 @@ git clone https://github.com/santhosh-labs/zepto-sql-analysis.git
 
 Santhosh S — Data Analyst, Focused on deriving actionable insights, simplifying complex data challenges, and delivering data-driven solutions across domains.
 
-[Santhosh S](https://www.linkedin.com/in/santhosh-portfolio)  
+💼 LinkedIn: [Santhosh S](https://www.linkedin.com/in/santhosh-portfolio)  
 - Let’s connect professionally and grow your data career
 
 
