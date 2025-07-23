@@ -1,4 +1,9 @@
 # 🛒 Zepto Inventory SQL Data Analysis
+![SQL](https://img.shields.io/badge/Language-SQL-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Project Type](https://img.shields.io/badge/Project-Data%20Analysis-orange.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 This project showcases a structured approach to data exploration, cleaning, and business insight generation using a retail product dataset modeled after Zepto — a fast-growing quick-commerce platform. The focus is on SQL techniques for transforming raw data into actionable insights.
 
